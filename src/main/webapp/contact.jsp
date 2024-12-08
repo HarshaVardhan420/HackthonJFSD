@@ -176,7 +176,7 @@
     <div class="container">
         <h3>Contact Us</h3>
         <div class="profile-section">
-            <img src="admin.jpg" alt="Profile Picture">
+            <img src="" alt="Profile Picture">
             <div class="profile-info">
                 <h4>xxxx</h4>
                 <p>Role: Developer, ERP Specialist</p>
